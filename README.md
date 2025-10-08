@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 Mi progreso en Codewars:
+[![Codewars](https://github.r2v.ch/codewars?user=BitAnima)](https://www.codewars.com/users/BitAnima)
