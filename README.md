@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi there 👋
 
-🚀 Mi progreso en Codewars:
+👩‍💻 Soy estudiante de programación, aprendiendo Python y desarrollo web.  
+🔎 Me encanta resolver retos, mejorar y compartir lo que aprendo.
+
+---
+
+🚀 **Mi progreso en Codewars:**  
 [![Codewars](https://github.r2v.ch/codewars?user=BitAnima)](https://www.codewars.com/users/BitAnima)
+
+---
+
+🌱 Actualmente aprendiendo:  
+- Python
+- HTML & Web Development
+
+📬 ¿Me quieres contactar?  
+Encuéntrame aquí en GitHub o en Codewars.
+
