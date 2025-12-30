@@ -44,7 +44,7 @@ I am reading for a **BSc in Computer Engineering** while actively upskilling in:
 I love training my logic and problem-solving skills! You can find my solutions and progress here:
 
 - **Codewars:** [![Codewars](https://github.r2v.ch/codewars?user=BitAnima)](https://www.codewars.com/users/BitAnima)
-- **FreeCodeCamp:** [![Freecodecamp] (https://www.freecodecamp.org/bitanima)](https://www.freecodecamp.org/bitanima)
+- **FreeCodeCamp:** [(https://www.freecodecamp.org/bitanima)](https://www.freecodecamp.org/bitanima)
 - **LeetCode:** Focusing on algorithmic efficiency.
 
 
